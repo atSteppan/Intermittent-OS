@@ -1,4 +1,8 @@
-# Intermittent OS
+Intermittent OS
+
+Forked by WMU RSEEDS REU research team for integration with Culpeo system and Catnap functionality for voltage monitoring and ESR accountability
+
+Original readme below:
 
 <!-- ABOUT THE PROJECT -->
 ## Project Description
